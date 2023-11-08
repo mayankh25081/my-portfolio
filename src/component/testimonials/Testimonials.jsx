@@ -23,7 +23,7 @@ const data = [
     details:
       "This website is a responsive website and it is for listening songs which is built using HTML CSS and Java-Script",
       visit: 'https://mayankh25081.github.io/spotiFy_clone/',
-      Github: 'https://leetcode.com/mayankh25081/'
+      Github: 'https://github.com/mayankh25081/spotiFy_clone'
   },
   {
     logo: textUtils,
@@ -31,7 +31,7 @@ const data = [
     details:
       "It is a react based website, where you can convert your text into lowercase and uppercase and can also listen to the text you type and enjoy more functions.",
       visit: 'https://mayankh25081.github.io/textUtils/',
-      Github: 'https://leetcode.com/mayankh25081/'
+      Github: 'https://github.com/mayankh25081/textUtils'
     },
   {
     logo: education,
@@ -39,7 +39,7 @@ const data = [
     details:
       "It is a fully responsive website built using HTML, CSS and Java-Script. This website represents the designing thinking of the creator.",
       visit: 'https://mayankh25081.github.io/education_clone/',
-      Github: 'https://leetcode.com/mayankh25081/'
+      Github: 'https://github.com/mayankh25081/education_clone'
     },
 ];
 const Testimonials = () => {
