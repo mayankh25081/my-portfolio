@@ -42,7 +42,7 @@ const data = [
     id: 6,
     image: img6,
     title: 'CodeChef',
-    profile: 'https://www.codechef.com/users/mayankgoyal310'
+    profile: 'https://www.codechef.com/users/mayank18code'
   }
 ]
 const Portfolio = () => {

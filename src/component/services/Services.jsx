@@ -64,11 +64,11 @@ const Services = () => {
           <ul className="skills__lists">
             <li>
               <BiCheck className='skills__list-icon' />
-              <p>Pupil On Codeforces(Max-1221)</p>
+              <p>Pupil On Codeforces(Max-1302)</p>
             </li>
             <li>
               <BiCheck className='skills__list-icon' />
-              <p>3-star raing on CodeChef(Max-1621)</p>
+              <p>4-star raing on CodeChef(Max-1830)</p>
             </li>
             <li>
               <BiCheck className='skills__list-icon' />
@@ -76,7 +76,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='skills__list-icon' />
-              <p>Global Rank 43 In Starters 103 Division 3 (CodeChef)</p>
+              <p>Global Rank 65 In Starters 114 Division 3 (CodeChef)</p>
             </li>
           </ul>
         </article>
