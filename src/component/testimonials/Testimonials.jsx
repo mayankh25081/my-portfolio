@@ -59,8 +59,8 @@ const data = [
       "A User can Select any algorithm to find the path between 2 nodes.",
       "A user can always add walls to prevent the path between 2 nodes."
       ],
-    visit: "https://mayankh25081.github.io/education_clone/",
-    Github: "https://github.com/mayankh25081/education_clone",
+    visit: "https://mayankh25081.github.io/pathVisualizer/",
+    Github: "https://github.com/mayankh25081/pathVisualizer",
   },
 ];
 const Testimonials = () => {
